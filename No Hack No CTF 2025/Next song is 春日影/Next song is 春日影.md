@@ -3,7 +3,7 @@
 ## Description
 
 <p align="center">
-  <img src="E:\CTF\writeup git\No Hack No CTF 2025\Catch The Goose - Writeup\image1.jpg" width="800" alt="Hacker animation">
+  <img src="No Hack No CTF 2025/Next song is 春日影/image1.png" width="700" alt="challenge banner / screenshot 1">
 </p>
 
 “NextJS Vulnerability at /admin”
