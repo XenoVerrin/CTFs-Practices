@@ -1,4 +1,4 @@
-# Catch the goose — writeup (raw)
+# Catch the goose 
 
 We are given several public files:
 
