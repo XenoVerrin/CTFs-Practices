@@ -1,8 +1,6 @@
 # Description
 
-<p align="center">
-  <img src="E:\CTF\writeup git\No Hack No CTF 2025\Catch The Goose - Writeup\image.jpg" width="800" alt="Hacker animation">
-</p>
+![screenshot](./image.jpg)
 
 👀 secret\_flag or user\:admin
 
@@ -39,9 +37,7 @@ if __name__ == '__main__':
 [https://youtu.be/h8DDSRb\_Pt4?si=t6cKhIxvUdNDpSSC](https://youtu.be/h8DDSRb_Pt4?si=t6cKhIxvUdNDpSSC)
 [https://www.youtube.com/watch?v=IVw8j3wXprM](https://www.youtube.com/watch?v=IVw8j3wXprM)
 
-<p align="center">
-  <img src="E:\CTF\writeup git\No Hack No CTF 2025\Catch The Goose - Writeup\imagew.png" width="800" alt="Hacker animation">
-</p>
+![screenshot](./imagew.png)
 
 This means the gRPC server **does not expose reflection. Therefore, I** **cannot discover services or methods automatically and** **must know the service/method names** ahead of time, but yah I already got the source code from the author (server.py)
 
@@ -64,7 +60,5 @@ message UserReply {
 ```
 
 Here is what we got.
-<p align="center">
-  <img src="E:\CTF\writeup git\No Hack No CTF 2025\Catch The Goose - Writeup\image.png" width="800" alt="Hacker animation">
-</p>
+![screenshot](./image.png)
 
