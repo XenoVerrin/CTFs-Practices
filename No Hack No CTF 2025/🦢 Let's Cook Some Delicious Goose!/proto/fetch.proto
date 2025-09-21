@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package fetch;
+
+service FetchService {
+  rpc FetchURL (FetchRequest) returns (FetchResponse);
+}
+
+message FetchRequest {
+  string url = 1;
+  string method = 2;
+  string body = 3;
+  map<string, string> headers = 4;
+}
+
+message FetchResponse {
+  string content = 1;
+}
+

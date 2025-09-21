@@ -1,0 +1,4 @@
+grpcio==1.63.0
+grpcio-tools==1.63.0
+requests==2.32.3
+flask==3.1.1

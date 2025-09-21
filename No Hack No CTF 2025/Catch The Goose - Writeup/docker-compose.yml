@@ -1,0 +1,13 @@
+services:
+  catch_the_goose:
+    build: .
+    ports:
+      - "14514:14514"
+    volumes:
+      - ./ctf.db:/app/ctf.db:ro
+    deploy:
+      resources:
+        limits:
+          memory: 88M
+          cpus: '0.5'
+    restart: unless-stopped
