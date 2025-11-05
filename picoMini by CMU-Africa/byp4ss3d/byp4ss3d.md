@@ -84,7 +84,3 @@ grep -RIl --binary-files=without-match -m1 'picoCTF' /var/www /home /opt /tmp 2>
 ![Flag retrieved](image8.png)
 
 ---
-
-## Flag
-
-Successfully retrieved the flag using file upload bypass technique.
