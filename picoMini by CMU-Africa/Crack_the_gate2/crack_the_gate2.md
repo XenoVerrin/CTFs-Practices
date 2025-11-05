@@ -79,6 +79,3 @@ After sending requests with different passwords and spoofed IPs, we analyze the 
 
 ---
 
-## Flag
-
-Successfully bypassed rate limiting using the `X-Forwarded-For` header and retrieved the flag through password brute-forcing.
