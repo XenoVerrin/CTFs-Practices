@@ -40,6 +40,3 @@ By adding the custom HTTP header `X-Dev-Access: yes` to our request, we can bypa
 
 ---
 
-## Flag
-
-Successfully retrieved the flag by exploiting the developer bypass header.
